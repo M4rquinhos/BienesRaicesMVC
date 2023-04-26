@@ -3,7 +3,7 @@
         'name' => 'marcocarrillo/bienes-raices',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '0f00e9629242edd973981bd27dabf4f62bc9d82d',
+        'reference' => 'd669ab704202f916e49656e89087354973e02e38',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -31,7 +31,7 @@
         'marcocarrillo/bienes-raices' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '0f00e9629242edd973981bd27dabf4f62bc9d82d',
+            'reference' => 'd669ab704202f916e49656e89087354973e02e38',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
