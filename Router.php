@@ -24,8 +24,13 @@ class Router {
             call_user_func($fn, $this);
 
         } else {
-
+            echo "Pagina no encontrada";
         }
+    }
+
+    // muestra una vista
+    public function render($view) {
+        include __DIR__ . "/views/$view.php";
     }
 
 }
